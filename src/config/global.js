@@ -142,134 +142,76 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Almeida, R. (2015). Implementar una Central Telefónica IP basada en tecnología Open Source en la carrera de Ingeniería en Sistemas Computacionales [Doctoral dissertation, Universidad de Guayaquil. Ecuador]. Repositorio Institucional de la Universidad de Guayaquil.',
+      link: 'http://repositorio.ug.edu.ec/handle/redug/9946',
+    },
+    {
+      referencia: 'Dordoigne, J. y Bardot, Y. (2020). Redes informáticas. ENI.',
+    },
+    {
+      referencia:
+        'Handley, M., Jacobson, V. y Perkins, C. (2006). RFC 4566: SDP: session description protocol. The Internet Society.',
+      link: 'https://datatracker.ietf.org/doc/html/rfc4566',
+    },
+    {
+      referencia:
+        'Matango, F. (2016, 29 marzo). Cuales son los Elementos de la Red – Arquitectura. SERVER VoIP.',
+      link: 'http://www.servervoip.com/blog/arquitectura-red-voip/',
+    },
+    {
+      referencia:
+        'UIT-T. (2003). Serie G Suplemento 39. Serie G: Sistemas y medios de transmisión, sistemas y redes digitales. Unión Internacional de Telecomunicaciones.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
-    },
-    {
-      referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-G.Sup39-200310-S!!PDF-S&type=items',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Adaptador de red',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Dispositivo de <i>hardware</i> que se inserta en una estación de trabajo de una red y le permite comunicarse con otros elementos unidos a la red. El adaptador de red recibe y convierte señales entrantes de la red a la estación de trabajo y convierte y envía comunicaciones salientes a la red.',
     },
     {
-      termino: 'Suftware',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'kbps',
+      significado: 'Kilobits por segundo.',
     },
     {
-      termino: 'Pirognóstico',
-      significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+      termino: 'kBps',
+      significado: 'Kilobytes por segundo. La relación es 1 kB/s = 8 kbps',
     },
     {
-      termino: 'Áectores',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Latencia',
+      significado: 'Retardo o demora de transmisión a través de la red.',
     },
     {
-      termino: 'Moda',
+      termino: 'PBX',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Private Branch Exchange. Equipo privado que administra las llamadas telefónicas de una empresa.',
     },
     {
-      termino: 'Diseño',
+      termino: 'SIP',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Session Initiation Protocol. Es un protocolo de señalización para inicio de sesión.',
     },
     {
-      termino: 'Tipología',
+      termino: 'VoIP',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un conjunto de recursos que hacen posible que la señal de voz viaje a través de Internet empleando el protocolo IP (Protocolo de Internet).',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'CISCO Networking Academy. (s. f.). CCNA: Switching, Routing, and Wireless Essentials.',
+      tipo: 'Capítulo de libro',
+      link:
+        'https://www.netacad.com/courses/networking/ccna-switching-routing-wireless-essentials',
     },
     {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      texto: 'Kronotek. (s. f.). Configuración de red para VoIP.',
+      tipo: 'Manual',
+      descarga:
+        'http://www.kronotek.net/manuales/configuracion_de_red_VoIP.pdf',
     },
   ],
   creditos: {
@@ -307,7 +249,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Walter Roa Serrano',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
