@@ -144,11 +144,11 @@
         p Describe una técnica de compresión que se puede utilizar para comprimir voz u otros componentes de señales de audio de servicios multimedia a una baja velocidad de bit, como parte de la familia de estándares H.324. Dos velocidades de bit están asociadas con el codificador: 5.3 y 6.3 kbps. (p.31).
     Separador
     #t_1_5.titulo-segundo
-      h2 1.5	Retardo
+      h2 1.5	Retardos
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Qgal2WdrDJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Retardos Jitter
     Separador
     #t_1_6.titulo-segundo
       h2 1.6	Jitter
@@ -159,10 +159,6 @@
           i.fas.fa-quote-left
           h2.mb-0 El jitter entre el punto inicial y final de la comunicación debería ser inferior a 100 ms; si el valor es menor a 100 ms, el jitter puede ser compensado de manera apropiada; en caso contrario, debería ser minimizado.
           i.fas.fa-quote-right
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
     Separador
     #t_1_7.titulo-segundo
       h2 1.7	Telefonía IP

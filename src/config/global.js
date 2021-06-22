@@ -52,7 +52,7 @@ export default {
             hash: 't_1_4',
           },
           {
-            icono: 'far fa-file-alt',
+            icono: 'far fa-play-circle',
             numero: '1.5',
             titulo: 'Retardo',
             hash: 't_1_5',
