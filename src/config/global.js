@@ -106,12 +106,12 @@ export default {
       },
     ],
     subMenu: [
-      {
+      /*{
         nombreRuta: 'actividad',
         icono: 'far fa-question-circle',
         titulo: 'Actividad didáctica',
         desarrolloContenidos: true,
-      },
+      },*/
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -177,7 +177,7 @@ export default {
     },
     {
       termino: 'kBps',
-      significado: 'Kilobytes por segundo. La relación es 1 kB/s = 8 kbps',
+      significado: 'Kilobytes por segundo. La relación es 1 kB/s = 8 kbps.',
     },
     {
       termino: 'Latencia',
@@ -186,12 +186,12 @@ export default {
     {
       termino: 'PBX',
       significado:
-        'Private Branch Exchange. Equipo privado que administra las llamadas telefónicas de una empresa.',
+        '<span style="display:none">_</span>Private Branch Exchange. Equipo privado que administra las llamadas telefónicas de una empresa.',
     },
     {
       termino: 'SIP',
       significado:
-        'Session Initiation Protocol. Es un protocolo de señalización para inicio de sesión.',
+        '<span style="display:none">_</span>Session Initiation Protocol. Es un protocolo de señalización para inicio de sesión.',
     },
     {
       termino: 'VoIP',
@@ -210,8 +210,7 @@ export default {
     {
       texto: 'Kronotek. (s. f.). Configuración de red para VoIP.',
       tipo: 'Manual',
-      descarga:
-        'http://www.kronotek.net/manuales/configuracion_de_red_VoIP.pdf',
+      descarga: 'downloads/configuracion_de_red_VoIP.pdf',
     },
   ],
   creditos: {
@@ -228,6 +227,49 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Carlos Mauricio Tovar Artunduaga',
+        cargo: 'Instructor',
+        centro: 'Centro de Servicios y Gestión Empresarial Regional Antioquia',
+      },
+      {
+        nombre: 'Jorge Eliécer Loaiza Muñoz',
+        cargo: 'Instructor',
+        centro: 'Centro de Servicios y Gestión Empresarial Regional Antioquia',
+      },
+      {
+        nombre: 'Claudia López Arboleda',
+        cargo: 'Experta temática',
+        centro:
+          'Centro de Teleinformática y Producción Industrial Regional Cauca',
+      },
+      {
+        nombre: 'Luz Mila Pacheco Fuentes',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julieth Paola Vital López',
+        cargo: 'Corrección de estilo',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro:
+          'Centro para la Industria de la Comunicación Gráfica Regional Distrito Capital',
+      },
+      {
+        nombre: 'Uriel Darío González Montoya',
+        cargo: 'Acompañamiento pedagógico',
+        centro: 'Centro Agropecuario La Granja Regional Tolima',
       },
     ],
     desarrolloProducto: [
@@ -255,13 +297,49 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Laura Gisselle Murcia Pardo',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Maria Carolina Tamayo López',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Nelson Iván Vera Briceño ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
