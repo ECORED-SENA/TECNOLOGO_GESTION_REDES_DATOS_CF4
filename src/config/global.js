@@ -236,7 +236,8 @@ export default {
       {
         nombre: 'Jorge Eliécer Loaiza Muñoz',
         cargo: 'Instructor',
-        centro: 'Centro de Servicios y Gestión Empresarial Regional Antioquia',
+        centro:
+          'Centro de Diseño e Innovación Tecnológica Industrial Regional Antioquia',
       },
       {
         nombre: 'Claudia López Arboleda',
@@ -252,7 +253,7 @@ export default {
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+        centro: 'Centro de Gestión Industrial Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
@@ -292,7 +293,7 @@ export default {
       },
       {
         nombre: 'Walter Roa Serrano',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -309,7 +310,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Maria Carolina Tamayo López',
+        nombre: 'María Carolina Tamayo López',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

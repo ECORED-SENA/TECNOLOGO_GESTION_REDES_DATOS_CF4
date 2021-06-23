@@ -24,34 +24,34 @@
       table.text-center
         thead
           tr
-            th.texto-acento-contenido Códec	
-            th.texto-acento-contenido Ancho de banda
-            th.texto-acento-contenido MOS (calidad del códec)
+            th.texto-acento-contenido.text-center Códec	
+            th.texto-acento-contenido.text-center Ancho de banda
+            th.texto-acento-contenido.text-center MOS (calidad del códec)
         tbody
           tr
-            td G.711
-            td 64 Kbps
-            td 4.1
+            td.text-center G.711
+            td.text-center 64 Kbps
+            td.text-center 4.1
           tr
-            td Internet Low Bitrate Codec (iLBC)
-            td 15.2 Kbps
-            td 4.1 
+            td.text-center Internet Low Bitrate Codec (iLBC)
+            td.text-center 15.2 Kbps
+            td.text-center 4.1 
           tr
-            td G.729
-            td 8 Kbps
-            td 3.92
+            td.text-center G.729
+            td.text-center 8 Kbps
+            td.text-center 3.92
           tr
-            td G.726
-            td 32 Kbps
-            td 3.85
+            td.text-center G.726
+            td.text-center 32 Kbps
+            td.text-center 3.85
           tr
-            td G.729a
-            td 8 Kbps
-            td 3.7
+            td.text-center G.729a
+            td.text-center 8 Kbps
+            td.text-center 3.7
           tr
-            td G.728
-            td 16 Kbps
-            td 3.61
+            td.text-center G.728
+            td.text-center 16 Kbps
+            td.text-center 3.61
     .row.align-items-center.mb-5
       .col-lg-6
         .cajon.color-acento-contenido.p-4.mb-4
@@ -176,24 +176,24 @@
           table.text-center
             thead
               tr
-                th.texto-acento-contenido Velocidad de subida
-                th.texto-acento-contenido Agentes simultáneos
+                th.texto-acento-contenido.text-center Velocidad de subida
+                th.texto-acento-contenido.text-center Agentes simultáneos
             tbody
               tr
-                td 256 kbps
-                td 8
+                td.text-center 256 kbps
+                td.text-center 8
               tr
-                td 512 kbps
-                td 16
+                td.text-center 512 kbps
+                td.text-center 16
               tr
-                td 1.024 kbps = 1 Mbps
-                td 32
+                td.text-center 1.024 kbps = 1 Mbps
+                td.text-center 32
               tr
-                td 2.048 kbps = 2 Mbps
-                td 64
+                td.text-center 2.048 kbps = 2 Mbps
+                td.text-center 64
               tr
-                td 4.096 kbps = 4 Mbps
-                td 128
+                td.text-center 4.096 kbps = 4 Mbps
+                td.text-center 128
     h3 Cálculo del número de líneas dedicadas a voz
     .row.align-items-center
       .col-lg-7

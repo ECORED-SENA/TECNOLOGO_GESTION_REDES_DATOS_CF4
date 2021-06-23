@@ -90,7 +90,7 @@
             h3 Adaptador de Teléfono Analógico ATA
             p El Adaptador de Teléfono Analógico o ATA <i>(Analog Telephone Adapter)</i> permite conectar un teléfono convencional a la red IP, por medio del protocolo SIP o IAX; trabaja como un adaptador que, a través del puerto Ethernet, convierte el teléfono analógico en uno IP.
           .col-md-6
-            figure Fuente: Intelbras
+            figure
               img(src='@/assets/curso/t1/i3.jpg', alt='Adaptador de teléfono analógico ATA')
               figcaption Fuente: Intelbras
       .py-3.py-md-4(titulo="Gateway")
@@ -171,7 +171,7 @@
             p Es el servicio que establece comunicación de voz por medio de una red LAN mediante el protocolo de Internet, utilizando diferentes tipos de terminales, como teléfonos convencionales, teléfonos IP, teléfonos móviles, PC portátil o PC de mesa, tal como se ilustra en la siguiente figura:
     .col-lg-10.mx-auto.mb-5
       .titulo-quinto.color-acento-contenido
-        h4.pt-5 Título de quinto nivel, 18pt
+        h4.pt-5 Telefonía IP
       img(src='@/assets/curso/t1/f9.svg' alt='Esquema VoIP')
     h3.pt-5 Protocolos para telefonía IP
     p Los protocolos más manejados se encuentran a continuación: 
@@ -183,30 +183,30 @@
       table.text-center
         thead
           tr
-            th.texto-acento-contenido Señal
-            th.texto-acento-contenido Acción
+            th.texto-acento-contenido.text-center Señal
+            th.texto-acento-contenido.text-center Acción
         tbody
           tr
-            td REGISTER
-            td Registrar un dispositivo
+            td.text-center REGISTER
+            td.text-center Registrar un dispositivo
           tr
-            td INVITE
-            td Iniciar la llamada
+            td.text-center INVITE
+            td.text-center Iniciar la llamada
           tr
-            td BYE
-            td Terminar la llamada establecida
+            td.text-center BYE
+            td.text-center Terminar la llamada establecida
           tr
-            td ACK
-            td Notificar el recibo de un mensaje
+            td.text-center ACK
+            td.text-center Notificar el recibo de un mensaje
           tr
-            td CANCEL
-            td Anular llamada aún no establecida
+            td.text-center CANCEL
+            td.text-center Anular llamada aún no establecida
           tr
-            td OPTIONS
-            td Métodos disponibles, alcance, latencia de un dispositivo
+            td.text-center OPTIONS
+            td.text-center Métodos disponibles, alcance, latencia de un dispositivo
           tr
-            td INFO
-            td Transmitir señales de aplicación a través del canal usado
+            td.text-center INFO
+            td.text-center Transmitir señales de aplicación a través del canal usado
     .row.m-0.align-items-center.justify-content-between.p-4
       .col-lg-8
         .bloque-texto-a__texto.p-5
@@ -223,30 +223,30 @@
       table.text-center
         thead
           tr
-            th.texto-acento-contenido Ventajas
-            th.texto-acento-contenido Desventajas
+            th.texto-acento-contenido.text-center Ventajas
+            th.texto-acento-contenido.text-center Desventajas
         tbody
           tr
-            td Bajo costo en facturas telefónicas
-            td Transporte de información dividida en paquetes
+            td.text-center Bajo costo en facturas telefónicas
+            td.text-center Transporte de información dividida en paquetes
           tr
-            td Oficinas virtuales
-            td Seguridad es relevante
+            td.text-center Oficinas virtuales
+            td.text-center Seguridad es relevante
           tr
-            td Dirección centralizada
-            td Cambia confiabilidad por velocidad
+            td.text-center Dirección centralizada
+            td.text-center Cambia confiabilidad por velocidad
           tr
-            td Mejor escalabilidad
-            td Servicio restringido a redes privadas
+            td.text-center Mejor escalabilidad
+            td.text-center Servicio restringido a redes privadas
           tr
-            td Única red convergente con datos, voz, video
-            td Pérdida de paquetes
+            td.text-center Única red convergente con datos, voz, video
+            td.text-center Pérdida de paquetes
           tr
-            td Uso eficiente de la red
-            td Baja calidad de comunicación
+            td.text-center Uso eficiente de la red
+            td.text-center Baja calidad de comunicación
           tr
-            td Alta calidad de comunicación	
-            td
+            td.text-center Alta calidad de comunicación	
+            td.text-center
     Separador
     #t_1_9.titulo-segundo
       h2 1.9	Servicios avanzados de telefonía IP
