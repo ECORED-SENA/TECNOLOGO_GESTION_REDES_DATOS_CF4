@@ -253,7 +253,7 @@ export default {
       {
         nombre: 'Silvia Milena Sequeda Cárdenas',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de Gestión Industrial Distrito Capital',
+        centro: 'Centro de Gestión Industrial Regional Distrito Capital',
       },
       {
         nombre: 'Julieth Paola Vital López',
