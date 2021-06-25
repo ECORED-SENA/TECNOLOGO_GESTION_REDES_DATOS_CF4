@@ -20,7 +20,7 @@
     .titulo-sexto.color-acento-contenido
       //h5 
       span Características de códecs de voz
-    .tabla-a.color-acento-contenido.mb-5 
+    .tabla-a.color-primario.mb-5 
       table.text-center
         thead
           tr
@@ -172,7 +172,7 @@
         .titulo-sexto.color-acento-contenido
           //h5 
           span Agentes Vs. Velocidad
-        .tabla-a.color-acento-contenido.mb-5 
+        .tabla-a.color-primario.mb-5 
           table.text-center
             thead
               tr
