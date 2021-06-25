@@ -179,7 +179,7 @@
     .titulo-sexto.color-acento-contenido
       //h5 
       span Señales para protocolo SIP
-    .tabla-a.color-acento-botones.mb-5 
+    .tabla-a.color-acento-contenido.mb-5 
       table.text-center
         thead
           tr
@@ -219,7 +219,7 @@
     #t_1_8.titulo-segundo
       h2 1.8	Ventajas y desventajas de la telefonía IP
     p.mb-5 La siguiente tabla condensa las ventajas y desventajas que presenta el servicio de telefonía IP:
-    .tabla-a.color-acento-botones.mb-5 
+    .tabla-a.color-acento-contenido.mb-5 
       table.text-center
         thead
           tr
